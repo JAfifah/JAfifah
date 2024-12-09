@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![orange-cat-laughing](https://github.com/user-attachments/assets/b439e710-d895-4777-bd74-63abb2ee1fac)
+
+
 Meow meow meow meeooow meow meow meow meeooow meow meow meow meeooow meow meow meow meow meow
