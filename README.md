@@ -1,4 +1,4 @@
-## This your lovely meow meow 😸
+## I'm Jami'atul Afifah, it's my pleasure to meet you 😸
 
 <!--
 **JAfifah/JAfifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![orange-cat-laughing](https://github.com/user-attachments/assets/b439e710-d895-4777-bd74-63abb2ee1fac)
+-->
 
-
-Meow meow meow meeooow meow meow meow meeooow meow meow meow meeooow meow meow meow meow meow
+![JAfifah's Stats](https://github-readme-stats.vercel.app/api?username=JAfifah&theme=omni&show_icons=true&hide_border=true&count_private=true)
