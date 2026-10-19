@@ -1,4 +1,4 @@
-# Hi! 💫 
+# Hi! 😸
 I'm Afifah, a passionate developer interested in building clean, modern, and user-centered web applications. I love exploring new technologies, refining workflows, and continuously developing projects that help me grow technically and creatively.
 
 ## 🌐 Socials:
